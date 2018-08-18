@@ -16,4 +16,6 @@ Git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 iTerminal: https://www.iterm2.com/
 
+React Boilerplate: https://github.com/SirLemuel/Shout
+
 Node v8.11.4 & NPM (v5.6): https://nodejs.org/en/
