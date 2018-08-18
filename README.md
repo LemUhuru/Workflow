@@ -1,9 +1,9 @@
 # Workflow
 
 Editor: https://atom.io/
+* Shell Commands (Atom, APM): Atom -> Install Shell Commands
 * Packages
-  * File Icons: apm install file-icons
-  * Theme:
+  * File Icons: ```apm i file-icons```
 
 Oh My Zsh:
 * https://github.com/robbyrussell/oh-my-zsh
