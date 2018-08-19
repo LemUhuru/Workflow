@@ -8,6 +8,7 @@ Editor: https://atom.io/
   * File Icons: ```apm i file-icons```
   * UI Theme (OneDark)
   * Syntax Theme (City Lights): ```apm i city-lights-syntax```
+  * Pigments: ```apm i pigments```
 
 iTerminal: https://www.iterm2.com/
 
