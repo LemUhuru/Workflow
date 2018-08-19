@@ -3,7 +3,11 @@
 Editor: https://atom.io/
 * Shell Commands (Atom, APM): Atom -> Install Shell Commands
 * Packages
+  * React: ```apm i react```
+  * Linter: ```apm i linter```
   * File Icons: ```apm i file-icons```
+  * UI Theme (OneDark)
+  * Syntax Theme (City Lights): ```apm i city-lights-syntax```
 
 iTerminal: https://www.iterm2.com/
 
