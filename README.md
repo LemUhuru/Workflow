@@ -1,5 +1,6 @@
-# Workflow & Standards
+# Workflow
 
+## Tools
 Editor: https://atom.io/
 * Shell Commands (Atom, APM): Atom -> Install Shell Commands
 * Packages
@@ -25,7 +26,7 @@ React Boilerplate: https://github.com/SirLemuel/Shout
 
 Node v8.11.4 & NPM (v5.6): https://nodejs.org/en/
 
-Standards:
+## Standards:
 * 12 Factor App: https://12factor.net/
 * Style Guides:
   * JavaScript: https://github.com/airbnb/javascript
