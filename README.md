@@ -11,6 +11,7 @@ __Editor__: https://atom.io/
   * Syntax Theme (City Lights): ```apm i city-lights-syntax```
   * Pigments: ```apm i pigments```
 
+
 __Terminal__ (iTerminal): https://www.iterm2.com/
 
 Oh My Zsh:
@@ -22,6 +23,9 @@ __Version Control__ (Git): https://git-scm.com/book/en/v2/Getting-Started-Instal
   * Generate New Key: https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
   * Add Key to Github: https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
 
+__API-Testing__:
+  * Postman: https://www.getpostman.com/
+
 __Client Side__: React Boilerplate: https://github.com/SirLemuel/Shout
 
 __Server Side__: Node v8.11.4 & NPM (v5.6): https://nodejs.org/en/
@@ -30,7 +34,7 @@ __Server Side__: Node v8.11.4 & NPM (v5.6): https://nodejs.org/en/
 * __Dev Patterns__:
     * 12 Factor App: https://12factor.net/
 
-    
+
 * __Style Guides__:
   * JavaScript: https://github.com/airbnb/javascript
   * React: https://github.com/airbnb/javascript/tree/master/react
