@@ -1,17 +1,7 @@
 # Workflow
 
 ## Tools
-__Editor__: https://atom.io/
-* Shell Commands (Atom, APM): Atom -> Install Shell Commands
-* Packages
-  * React: ```apm i react```
-  * Linter: ```apm i linter```
-  * File Icons: ```apm i file-icons```
-  * UI Theme (OneDark)
-  * Syntax Theme (City Lights): ```apm i city-lights-syntax```
-  * Pigments: ```apm i pigments```
-
-Experimenting w/ VisualStudio: https://code.visualstudio.com/docs/languages/javascript
+__Editor__: (VisualStudio) https://code.visualstudio.com/docs/languages/javascript
 
 __Terminal__ (iTerminal): https://www.iterm2.com/
 
