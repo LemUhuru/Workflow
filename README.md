@@ -11,6 +11,7 @@ __Editor__: https://atom.io/
   * Syntax Theme (City Lights): ```apm i city-lights-syntax```
   * Pigments: ```apm i pigments```
 
+Experimenting w/ VisualStudio: https://code.visualstudio.com/docs/languages/javascript
 
 __Terminal__ (iTerminal): https://www.iterm2.com/
 
